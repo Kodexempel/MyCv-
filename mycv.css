@@ -1,0 +1,211 @@
+.nav {
+    /* background-color: #333; */
+
+    overflow: hidden;
+    text-align: center;
+    padding: 3px 0;
+
+
+}
+
+
+.nav a {
+
+
+    color: bold #000000;
+    text-align: center;
+
+    padding: 14px 16px;
+    text-decoration: none;
+
+    font-size: 22px;
+    line-height: 60px;
+    word-spacing: 10px;
+    margin-left: 10px;
+
+}
+
+p {
+    color: #333;
+}
+
+.nav a:hover {
+    background-color: #44ecd5;
+
+    color: black;
+}
+
+.nav a.active {
+    background-color: #1b26c7;
+    color: white;
+}
+
+
+
+
+
+.Education,
+.Experience,
+.skills,
+.Language,
+.others {
+
+
+    margin-top: -20%;
+    margin-left: 27%;
+    margin-right: 28%;
+
+    border-width: 10px;
+    background-color: #44ecd5;
+    /* border: 2px solid; */
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 70px;
+    padding: 10px;
+    box-shadow: 10px 10px 15px #52e4ec;
+    opacity: 0.9;
+
+}
+
+img {
+    margin-right: 10%;
+    margin-top: 0;
+    margin-left: 75%;
+    margin-bottom: 10%;
+    border-radius: 50%;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 70px;
+
+}
+
+html.homepage {
+    background-image: url(background-pic.webp);
+    background-size: cover;
+    background-color: #44ecd5;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+/* ul {
+    list-style-type: none;
+    padding: 0;
+
+} */
+
+li {
+
+    margin-bottom: 10px;
+    font-size: large;
+    color: #333;
+
+}
+
+
+
+P {
+    color: #333;
+}
+
+h1 {
+    color: #333;
+
+}
+
+h2 {
+    color: bold #000000;
+
+}
+
+a {
+    color: #007acc;
+
+}
+
+.homepage {
+    background-image: url(https://www.pinterest.se/pin/688910074269401884/);
+    background-size: cover;
+    background-color: #f5f5f5;
+
+}
+
+footer {
+    margin-top: 2%;
+    margin-left: 27%;
+    margin-right: 10%;
+    border-width: 10px;
+    border-top: 55px;
+    background-color: #44ecd5;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 70px;
+    padding: 10px;
+    box-shadow: 15px 15px 15px #52e4ec;
+    opacity: 0.8;
+    height: 175px;
+
+}
+
+.footer-logo {
+
+    vertical-align: middle;
+
+    width: 100px;
+
+
+
+    position: relative;
+
+    top: -110px;
+
+    left: 30%;
+    margin: 0 100px;
+
+}
+
+#unique-footer {
+    margin-top: 7%;
+    margin-left: 27%;
+    margin-right: 10%;
+    padding: 10px;
+
+    background-color: #44ecd5;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 70px;
+
+    box-shadow: 15px 15px 15px #52e4ec;
+    opacity: 0.8;
+    height: 175px;
+
+}
+
+
+
+.about {
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 70px;
+    margin-top: -25%;
+    margin-left: 55%;
+    margin-right: 20%;
+
+    box-shadow: 35px 35px 35px #52e4ec;
+    padding: 20px;
+
+
+
+}
